@@ -1,0 +1,26 @@
+/*font family Abel*/
+@font-face{
+    font-family: Abel;
+    src:url('../allfonts/Abel/Abel-Regular.ttf')
+}
+
+/*font family Roboto*/
+
+@font-face{
+    font-family: Roboto;
+    src:url('../allfonts/Roboto/Roboto-Medium.ttf')
+}
+
+/*font family Oswald*/
+@font-face{
+    font-family: Oswald;
+    src:url('../allfonts/Oswald/Oswald-VariableFont_wght.ttf')
+}
+
+/*font family Livvic*/
+
+@font-face {
+    font-family: Livvic;
+    src: url('../allfonts/Livvic/Livvic-Medium.ttf');
+}
+
